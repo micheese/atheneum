@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+For the books lovers I guess.
 
-Things you may want to cover:
+Athaneum is a virtual bookshelf that will help you organise your home library to keep constant tracking of your favorites objects (ie. Books).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
